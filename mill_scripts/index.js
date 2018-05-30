@@ -16,7 +16,7 @@ import Scaling from './scaling'
 //const planeTracker = Scene.root.find('planeTracker0')
 const face =  FaceTracking.face(0)
 
-/* Example es6 static methof call */
+/* Example es6 static method call */
 Diagnostics.log(Scaling.example)
 
 /**

@@ -17,14 +17,14 @@ function getEntry (){
 }
 
 export default{
-    input: 'mill_scripts/index.js',
+    input: 'src/index.js',
     output: {
       name: 'script',  
       file: 'scripts/' + getEntry(),
       format: 'iife'
     },
     watch: {
-      include: ['mill_scripts/**', 'data/**'],
+      include: ['src/**', 'data/**'],
       exclude: ['node_modules/**']
     },
     plugins: [

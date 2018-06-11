@@ -47,7 +47,7 @@
       }, {
           key: "example",
           get: function get$$1() {
-              return 'example';
+              return 'This is an example ES6 get method';
           }
       }]);
       return Scaling;
@@ -65,7 +65,7 @@
   //const planeTracker = Scene.root.find('planeTracker0')
   var face = FaceTracking.face(0);
 
-  /* Example es6 static methof call */
+  /* Example es6 static method call */
   Diagnostics.log(Scaling.example);
 
   /**

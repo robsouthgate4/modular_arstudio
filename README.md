@@ -1,6 +1,6 @@
-# AR Studio Modules example
+# Modular AR studio
 
-> An example project demonstrating the use of ES6 modules with AR Studio
+> A project scaffold for building Modular AR studio effects
 
 ## Requirements
 You only need <b>node.js</b> pre-installed and you’re good to go.
@@ -24,4 +24,5 @@ $ npm run watch
 ```
 
 ## [Rollup](https://rollupjs.org/guide/en)
+Go to ths link for more information of Rollup.js and get extending this project!
 

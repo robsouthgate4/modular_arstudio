@@ -2,7 +2,7 @@ const Reactive = require("Reactive");
 
 export default class Scaling {
 	static get example(){
-		return 'example'
+		return 'This is an example ES6 get method'
 	}
     static scaleObject(object, value) {
         const lastScaleX = object.transform.scaleX.lastValue;

@@ -1,3 +1,6 @@
+/**
+ * @author Rob Southgate <robsouthgate4@gmail.com>
+ */
 
 import { version, name } from '../package.json'
 

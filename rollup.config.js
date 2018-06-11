@@ -1,3 +1,6 @@
+/**
+ * @author Rob Southgate <robsouthgate4@gmail.com>
+ */
 
 // rollup.config.js
 import json from 'rollup-plugin-json';

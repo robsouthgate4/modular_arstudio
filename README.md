@@ -2,6 +2,8 @@
 
 > A project scaffold for building Modular AR studio effects
 
+![](screens/imports.png?raw=true "Import syntax")
+
 ## Requirements
 You only need <b>node.js</b> pre-installed and you’re good to go.
 

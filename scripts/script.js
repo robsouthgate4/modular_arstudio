@@ -53,6 +53,10 @@
       return Scaling;
   }();
 
+  /**
+   * @author Rob Southgate <robsouthgate4@gmail.com>
+   */
+
   var Diagnostics = require("Diagnostics");
   var Reactive$1 = require("Reactive");
   var Scene = require("Scene");

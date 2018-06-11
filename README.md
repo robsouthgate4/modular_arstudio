@@ -8,7 +8,7 @@ You only need <b>node.js</b> pre-installed and you’re good to go.
 ## Download
 Clone repo 
 ```sh
-$ git clone git@github.com:robsouthgate4/ar_module_example.git
+$ git clone git@github.com:robsouthgate4/modular_arstudio.git
 ```
 
 ## Setup
